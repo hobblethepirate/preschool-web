@@ -1,0 +1,104 @@
+.login-external-div
+{
+	width: 450px; 
+	background-color: #f8f8f8; 
+	border-color: #e7e7e7;
+	margin-right: auto; 
+	margin-left: auto; 
+	margin-top: 100px;
+	border-radius: 6px;"
+}
+
+.login-internal-div
+{
+	width: 300px; 
+	padding: 5px; 
+	margin-right: auto; 
+	margin-left: auto;
+}
+
+.login-h3
+{
+	margin-right: auto; 
+	margin-left: auto; 
+	padding-top: 10px;
+	width: 150px; 
+	color: gray;
+}
+
+.navbar-custom
+{
+	padding-top: 10px;
+}
+.navbar-p
+{
+	float: right;
+	padding-top: 15px;
+}
+.div-small
+{
+	border-radius: 10px;
+	border: 1px solid; 
+	border-color: #e7e7e7; 
+	background-color: #f8f8f8; 
+	width: 390px; 
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;"
+}
+.div-medium
+{
+	border-radius: 10px;
+	border: 1px solid; 
+	border-color: #e7e7e7; 
+	background-color: #f8f8f8; 
+	width: 585px; 
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;"
+}
+.div-large
+{
+	border-radius: 10px;
+	border: 1px solid; 
+	border-color: #e7e7e7; 
+	background-color: #f8f8f8; 
+	width: 1170px; 
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;"
+}
+.smbutton-marginright
+{
+	margin-right: 10px;
+}
+.smbutton-margintop
+{
+	margin-top: 10px;
+}
+
+.manage-modify-settings-div
+{
+	display: inline-block; 
+	padding-right: 85px;	
+}
+.manage-modify-shapes-div
+{
+	display: inline-block; 
+	padding-right: 50px;	
+	
+}
+.manage-modify-alphabet-div
+{
+	display: inline-block; 
+	padding-right: 41px;	
+}
+.manage-modify-div
+{
+	float: left; 
+	margin-left: 20px; 
+	display: none;
+}
