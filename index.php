@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<div class="login-external-div">
+<div class="login-external-div div-small">
 <h3 class="login-h3">Pre-School</h3>
 <div class="login-internal-div">
 <form action="login.php" method="post">	
