@@ -12,10 +12,10 @@ function manageDevice(id)
 <?php require 'login-banner.php' ?>
 <?php
 session_start(); 
-$servername = "localhost";
-$username = "web_rw";
-$password = "WebsiteReadWrite1@";
-$dbname = "htacad";
+$servername = "us-cdbr-iron-east-03.cleardb.net";
+$username = "bd137a7a986b26";
+$password = "304a2520";
+$dbname = "heroku_59a151862bc71b9";
 
 // Create connection	
 $conn = new mysqli($servername, $username, $password, $dbname);
