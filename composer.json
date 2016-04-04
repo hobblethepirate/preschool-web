@@ -3,11 +3,11 @@
     "description": "website management system for preschool",
     "type": "php",
     "require-dev": {
-	        "heroku/heroku-buildpack-php": "^100.0",
+         "heroku/heroku-buildpack-php": "^100.0",
 	},
-	"require": {
+    "require": {
         "memcachier/php-memcache-sasl": ">=1.0.1",
-		"ext-memcached": "*"
+        "ext-memcached": "*"
     },
     "authors": [
         {
