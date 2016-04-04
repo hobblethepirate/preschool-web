@@ -1,11 +1,15 @@
 {
-  "require-dev": {
-    "heroku/heroku-buildpack-php": "*"
-  }
-}
-
-{
-  "require": {
-    "ext-memcached": "*"
-  }
+    "name": "gimmyapps/preschool",
+    "description": "website management system for preschool",
+    "type": "php",
+    "require": {
+        "heroku/heroku-buildpack-php": "^100.0",
+        "cache/memcached-adapter": "^0.3.1"
+    },
+    "authors": [
+        {
+            "name": "James",
+            "email": "hobblethepirate@gmail.com"
+        }
+    ]
 }
