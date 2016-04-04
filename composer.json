@@ -1,10 +1,11 @@
 {
     "name": "gimmyapps/preschool",
-    "description": "website management system for preschool",
-    "type": "php",
+    "description": "A android game management site",
+    "type": "site",
     "require": {
-        "memcachier/php-memcache-sasl": ">=1.0.1",
-		"ext-memcached": "*"
+        "memcachier/php-memcache-sasl": "^1.0",
+        "ext-memcached": "*",
+        "php": "^5.6"
     },
     "authors": [
         {
