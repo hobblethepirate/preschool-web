@@ -4,7 +4,8 @@
     "type": "php",
     "require": {
         "heroku/heroku-buildpack-php": "^100.0",
-        "cache/memcached-adapter": "^0.3.1"
+        "memcachier/php-memcache-sasl": ">=1.0.1",
+		"ext-memcached": "*"
     },
     "authors": [
         {
