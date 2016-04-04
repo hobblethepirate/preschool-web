@@ -2,8 +2,10 @@
     "name": "gimmyapps/preschool",
     "description": "website management system for preschool",
     "type": "php",
-    "require": {
-        "heroku/heroku-buildpack-php": "^100.0",
+    "require-dev": {
+	        "heroku/heroku-buildpack-php": "^100.0",
+	},
+	"require": {
         "memcachier/php-memcache-sasl": ">=1.0.1",
 		"ext-memcached": "*"
     },
