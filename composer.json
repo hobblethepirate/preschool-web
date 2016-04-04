@@ -1,0 +1,9 @@
+{
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+
+  "require": {
+    "ext-memcached": "*"
+  }
+}
