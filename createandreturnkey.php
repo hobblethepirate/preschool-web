@@ -18,5 +18,5 @@ $sql = "INSERT INTO keydata (key_num, device_name) VALUES ('$keynum', '$devicena
 	}
 
 	$conn->close();	
-	print(json_encode($keynum));
+	echo $keynum;
 ?>
