@@ -3,7 +3,7 @@
     "description": "a preschool game management site",
     "type": "site",
     "require": {
-        "ext-memcache": "*",
+        "ext-memcache": "^3.0",
         "php": "^5.6"
     },
     "authors": [
